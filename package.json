@@ -21,7 +21,8 @@
     "url": "https://github.com/gmavridakis/Electron-PharmacyDestopApplication.git"
   },
   "devDependencies": {
-    "electron": "^1.4.8"
+    "electron": "^1.4.8",
+    "jquery": "^3.4.1"
   },
   "dependencies": {
     "asar": "^3.0.2",
@@ -31,7 +32,6 @@
     "datatables.net-dt": "^1.10.20",
     "electron-packager": "^14.2.1",
     "jQuery": "^1.7.4",
-    "jquery": "^3.3.1",
     "mdbootstrap": "^4.14.1",
     "nedb": "^1.8.0",
     "popper.js": "^1.14.4",
