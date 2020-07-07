@@ -21,7 +21,7 @@
     "url": "https://github.com/gmavridakis/Electron-PharmacyDestopApplication.git"
   },
   "devDependencies": {
-    "electron": "^1.4.8",
+    "electron": "^9.1.0",
     "jquery": "^3.4.1"
   },
   "dependencies": {
